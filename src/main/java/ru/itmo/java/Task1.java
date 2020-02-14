@@ -3,10 +3,9 @@ package ru.itmo.java;
 public class Task1 {
 
     /**
-     * @return 42
+     * @return 27
      */
-    int get42() {
-        return 42;
+    int get() {
+        return 27;
     }
-
 }

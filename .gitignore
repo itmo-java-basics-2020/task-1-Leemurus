@@ -1,0 +1,17 @@
+/.idea/compiler.xml
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/lab1-1.0-SNAPSHOT.jar
+/.idea/libraries/Maven__junit_junit_4_12.xml
+/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/target/maven-archiver/pom.properties
+/target/surefire-reports/ru.itmo.java.Task1Test.txt
+/.idea/task-1-Leemurus.iml
+/target/surefire-reports/TEST-ru.itmo.java.Task1Test.xml
+/.idea/vcs.xml
+/target/classes/ru/itmo/java/Task1.class
+/target/test-classes/ru/itmo/java/Task1Test.class
